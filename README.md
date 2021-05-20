@@ -1,4 +1,4 @@
-# TaskList App
+# TaskList App 💙
 Meu primeiro app, um TaskList simples.. Utilizando Expo
 
 ## Demonstração do app 
